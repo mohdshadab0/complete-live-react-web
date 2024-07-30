@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/complete-live-react-web/static/css/main.96c33ecc.css",
+    "main.js": "/complete-live-react-web/static/js/main.4c6e656c.js",
+    "static/js/453.a7fc1ab7.chunk.js": "/complete-live-react-web/static/js/453.a7fc1ab7.chunk.js",
+    "static/media/digital.jpg": "/complete-live-react-web/static/media/digital.f0d602ab9a472ad06793.jpg",
+    "static/media/marketing.jpg": "/complete-live-react-web/static/media/marketing.0ad8c68b300c6dedea99.jpg",
+    "static/media/app.jpg": "/complete-live-react-web/static/media/app.e70d2503c9281710ef8e.jpg",
+    "static/media/software.jpg": "/complete-live-react-web/static/media/software.d1ff635a064f70e25516.jpg",
+    "static/media/android.jpg": "/complete-live-react-web/static/media/android.6fd2222066c85e63ca30.jpg",
+    "static/media/3.svg": "/complete-live-react-web/static/media/3.0449994d747a8261fe9404cb3ba09e17.svg",
+    "static/media/home1.jpg": "/complete-live-react-web/static/media/home1.bd19385fe6599edc8562.jpg",
+    "static/media/s1.jpg": "/complete-live-react-web/static/media/s1.3bd9129b7cf1855ed2e7.jpg",
+    "index.html": "/complete-live-react-web/index.html",
+    "main.96c33ecc.css.map": "/complete-live-react-web/static/css/main.96c33ecc.css.map",
+    "main.4c6e656c.js.map": "/complete-live-react-web/static/js/main.4c6e656c.js.map",
+    "453.a7fc1ab7.chunk.js.map": "/complete-live-react-web/static/js/453.a7fc1ab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96c33ecc.css",
+    "static/js/main.4c6e656c.js"
+  ]
+}
